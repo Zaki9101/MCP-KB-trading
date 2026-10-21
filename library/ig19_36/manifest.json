@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "RULE_OPEN_NO_ENTRY_WINDOW",
+    "file": "RULE_OPEN_NO_ENTRY_WINDOW.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "OPENRANGE",
+      "OPEN",
+      "timing"
+    ],
+    "sources": [
+      "IG-21 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_GAP_AND_GO_PMH",
+    "file": "SETUP_GAP_AND_GO_PMH.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "gap"
+    ],
+    "sources": [
+      "IG-21 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_RED_TO_GREEN__ig19_36",
+    "file": "SETUP_RED_TO_GREEN__ig19_36.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "OPEN",
+      "red-to-green"
+    ],
+    "sources": [
+      "IG-21 panel 6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_GAP_DOWN_REVERSAL",
+    "file": "SETUP_GAP_DOWN_REVERSAL.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "GAP",
+      "MORNING",
+      "gap-down"
+    ],
+    "sources": [
+      "IG-21 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_RSI_EXTREME_LEVEL_LONG",
+    "file": "SETUP_RSI_EXTREME_LEVEL_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "rsi-extreme"
+    ],
+    "sources": [
+      "IG-22 panel 2",
+      "IG-22 values table"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_NEW_HIGH_AFTER_REDS",
+    "file": "SETUP_NEW_HIGH_AFTER_REDS.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "reversal"
+    ],
+    "sources": [
+      "IG-22 panel 6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_SELL_LONGS_INTO_SPIKE",
+    "file": "EXIT_SELL_LONGS_INTO_SPIKE.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "parabolic"
+    ],
+    "sources": [
+      "IG-22 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_DO_NOT_FADE",
+    "file": "DISC_DO_NOT_FADE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "fade"
+    ],
+    "sources": [
+      "IG-22 do-not-fade box"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BULL_FLAG",
+    "file": "SETUP_BULL_FLAG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "FLAG",
+      "MORNING",
+      "bull-flag"
+    ],
+    "sources": [
+      "IG-23 tile 1",
+      "IG-23 tile 11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_ABCD_FLAG",
+    "file": "SETUP_ABCD_FLAG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "FLAG",
+      "MORNING",
+      "abcd"
+    ],
+    "sources": [
+      "IG-23 tile 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_FLAT_TOP_BREAK",
+    "file": "SETUP_FLAT_TOP_BREAK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "flat-top"
+    ],
+    "sources": [
+      "IG-23 tile 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CUP_AND_HANDLE",
+    "file": "SETUP_CUP_AND_HANDLE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "cup-handle"
+    ],
+    "sources": [
+      "IG-23 tile 4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_MICRO_PULLBACK",
+    "file": "SETUP_MICRO_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "micro-pullback"
+    ],
+    "sources": [
+      "IG-23 tile 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TRIANGLE_LONG",
+    "file": "SETUP_TRIANGLE_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "triangle"
+    ],
+    "sources": [
+      "IG-23 tile 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BEAR_TRAP_LONG",
+    "file": "SETUP_BEAR_TRAP_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "bear-trap"
+    ],
+    "sources": [
+      "IG-23 tile 12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_DAILY_LIMITS_SMALL_ACCOUNT",
+    "file": "RISK_DAILY_LIMITS_SMALL_ACCOUNT.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "daily-limits"
+    ],
+    "sources": [
+      "IG-24 top row"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_PRICE_BAND_SIZING",
+    "file": "RISK_PRICE_BAND_SIZING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "sizing"
+    ],
+    "sources": [
+      "IG-24 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_TWO_TO_ONE_RULE",
+    "file": "RISK_TWO_TO_ONE_RULE.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "reward-risk"
+    ],
+    "sources": [
+      "IG-24 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_BEFORE_OPEN_CHECKLIST",
+    "file": "DISC_BEFORE_OPEN_CHECKLIST.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "checklist"
+    ],
+    "sources": [
+      "IG-24 panel 4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_SIZE_UP_DOWN__ig19_36",
+    "file": "RISK_SIZE_UP_DOWN__ig19_36.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "sizing-ladder"
+    ],
+    "sources": [
+      "IG-24 panels 5-6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PROFIT_TRIFECTA",
+    "file": "DISC_PROFIT_TRIFECTA.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "pro-gate"
+    ],
+    "sources": [
+      "IG-24 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PLAN_CARD",
+    "file": "DISC_PLAN_CARD.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "plan-card"
+    ],
+    "sources": [
+      "IG-24 panel 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_UHOB",
+    "file": "SETUP_UHOB.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "hold-the-bid"
+    ],
+    "sources": [
+      "IG-25 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_WHOLE_DOLLAR",
+    "file": "SETUP_WHOLE_DOLLAR.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "whole-dollar"
+    ],
+    "sources": [
+      "IG-25 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BREAK_AND_HOLD",
+    "file": "SETUP_BREAK_AND_HOLD.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "break-hold"
+    ],
+    "sources": [
+      "IG-25 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_HOLD_OR_BREAK",
+    "file": "SETUP_HOLD_OR_BREAK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "hold-break"
+    ],
+    "sources": [
+      "IG-25 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_IPO_PRICE_LONG",
+    "file": "SETUP_IPO_PRICE_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "ipo-price"
+    ],
+    "sources": [
+      "IG-25 panel 6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_MARKET_PLAY",
+    "file": "SETUP_MARKET_PLAY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "index"
+    ],
+    "sources": [
+      "IG-25 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_DAILY_SUPPORT_LONG",
+    "file": "SETUP_DAILY_SUPPORT_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "daily-sr"
+    ],
+    "sources": [
+      "IG-25 panel 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_NINE_EMA_TREND",
+    "file": "SETUP_NINE_EMA_TREND.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "9ema"
+    ],
+    "sources": [
+      "IG-26 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_LEVEL_PULLBACK",
+    "file": "SETUP_LEVEL_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "level-pullback"
+    ],
+    "sources": [
+      "IG-26 panel 4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_DAY_SNIPER__ig19_36",
+    "file": "SETUP_DAY_SNIPER__ig19_36.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "OPENRANGE",
+      "OPEN",
+      "day-sniper"
+    ],
+    "sources": [
+      "IG-26 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_COLOUR_VS_PRICE",
+    "file": "TAPE_COLOUR_VS_PRICE.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "colour"
+    ],
+    "sources": [
+      "IG-27 panel A"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_SIZE_FILTER_TIERS",
+    "file": "TAPE_SIZE_FILTER_TIERS.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "size-filter"
+    ],
+    "sources": [
+      "IG-27 panel B"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_MID_SPREAD_AND_EXIT_NOW",
+    "file": "TAPE_MID_SPREAD_AND_EXIT_NOW.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "exit-now"
+    ],
+    "sources": [
+      "IG-27 panels C and D"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "TAPE_OPEN_BREAK_REAL_VS_FAKE",
+    "file": "TAPE_OPEN_BREAK_REAL_VS_FAKE.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "OPEN",
+      "open-break"
+    ],
+    "sources": [
+      "IG-27 panels 1 and 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_MICRO_PULLBACK",
+    "file": "TAPE_MICRO_PULLBACK.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "MORNING",
+      "micro-pullback"
+    ],
+    "sources": [
+      "IG-27 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_JBE_AND_CUP_HANDLE",
+    "file": "TAPE_JBE_AND_CUP_HANDLE.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "MORNING",
+      "jbe-cup"
+    ],
+    "sources": [
+      "IG-27 panels 4 and 6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_HAMMER_REVERSAL",
+    "file": "TAPE_HAMMER_REVERSAL.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "MORNING",
+      "hammer"
+    ],
+    "sources": [
+      "IG-27 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_ATTEMPT_COUNT",
+    "file": "DISC_ATTEMPT_COUNT.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "attempts"
+    ],
+    "sources": [
+      "IG-27 panel 9"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SCAN_PREOPEN_NUMBERS_GRID",
+    "file": "SCAN_PREOPEN_NUMBERS_GRID.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "numbers"
+    ],
+    "sources": [
+      "IG-28 panel 1"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SCAN_PRESET_ALERTS",
+    "file": "SCAN_PRESET_ALERTS.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "MORNING",
+      "presets"
+    ],
+    "sources": [
+      "IG-28 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SCAN_GAP_AND_GO_CHECKLIST",
+    "file": "SCAN_GAP_AND_GO_CHECKLIST.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "gap-go"
+    ],
+    "sources": [
+      "IG-28 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SCAN_FALLEN_ANGEL_LONG",
+    "file": "SCAN_FALLEN_ANGEL_LONG.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "MORNING",
+      "fallen-angel"
+    ],
+    "sources": [
+      "IG-28 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_LONG_TWIN_NEWS_GAP_DOWN",
+    "file": "SETUP_LONG_TWIN_NEWS_GAP_DOWN.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "GAP",
+      "MORNING",
+      "gap-down-long"
+    ],
+    "sources": [
+      "IG-29 panel 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_EXPECTANCY_GATE",
+    "file": "RISK_EXPECTANCY_GATE.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "expectancy"
+    ],
+    "sources": [
+      "IG-36 panels 1-4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_SMALLEST_LIMIT_SIZING",
+    "file": "RISK_SMALLEST_LIMIT_SIZING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "sizing"
+    ],
+    "sources": [
+      "IG-36 panels 5-6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_NEVER_DOUBLE_DOWN",
+    "file": "DISC_NEVER_DOUBLE_DOWN.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "martingale"
+    ],
+    "sources": [
+      "IG-36 panel 8, do-not-trade strip"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_DRAWDOWN_AND_DAY_LIMITS",
+    "file": "RISK_DRAWDOWN_AND_DAY_LIMITS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "limits"
+    ],
+    "sources": [
+      "IG-36 panels 9-10"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_DAILY_DEBRIEF",
+    "file": "DISC_DAILY_DEBRIEF.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "CLOSE",
+      "debrief"
+    ],
+    "sources": [
+      "IG-36 panel 11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_VWAP_TRADE_GATES",
+    "file": "RULE_VWAP_TRADE_GATES.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "gates"
+    ],
+    "sources": [
+      "IG-20 header"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_VWAP_REAL_BREAK_4_TICK",
+    "file": "RULE_VWAP_REAL_BREAK_4_TICK.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "real-break"
+    ],
+    "sources": [
+      "IG-20 real vs false box"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_VWAP_FALSE_BREAK_NO_BUY",
+    "file": "RULE_VWAP_FALSE_BREAK_NO_BUY.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "false-break"
+    ],
+    "sources": [
+      "IG-20 real vs false box",
+      "IG-20 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_VWAP_BREAKOUT",
+    "file": "SETUP_VWAP_BREAKOUT.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "vwap-breakout"
+    ],
+    "sources": [
+      "IG-20 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_VWAP_REVERSAL_LONG__ig19_36",
+    "file": "SETUP_VWAP_REVERSAL_LONG__ig19_36.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "vwap-reversal"
+    ],
+    "sources": [
+      "IG-20 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_VWAP_FIRST_PULLBACK__ig19_36",
+    "file": "SETUP_VWAP_FIRST_PULLBACK__ig19_36.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "vwap-first-pullback"
+    ],
+    "sources": [
+      "IG-20 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_VWAP_CAP_EXAMPLES",
+    "file": "RISK_VWAP_CAP_EXAMPLES.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "MORNING",
+      "cap-examples"
+    ],
+    "sources": [
+      "IG-20 worked examples"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_CAMARILLA_PRECONDITIONS",
+    "file": "RULE_CAMARILLA_PRECONDITIONS.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "pivots"
+    ],
+    "sources": [
+      "IG-19 preconditions"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CAMARILLA_BREAKOUT_R4",
+    "file": "SETUP_CAMARILLA_BREAKOUT_R4.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "camarilla-r4"
+    ],
+    "sources": [
+      "IG-19 panels B and C"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CAMARILLA_TRAVERSE_S3",
+    "file": "SETUP_CAMARILLA_TRAVERSE_S3.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "camarilla-s3"
+    ],
+    "sources": [
+      "IG-19 panel A"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CAMARILLA_COUNTERTREND_LONG",
+    "file": "SETUP_CAMARILLA_COUNTERTREND_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "camarilla-counter"
+    ],
+    "sources": [
+      "IG-19 panels D, E, F"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TRENDING_RANGE_BREAKOUT_PULLBACK",
+    "file": "SETUP_TRENDING_RANGE_BREAKOUT_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "range-day"
+    ],
+    "sources": [
+      "IG-33 panel 4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TREND_RESUMPTION",
+    "file": "SETUP_TREND_RESUMPTION.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MIDDAY",
+      "resumption"
+    ],
+    "sources": [
+      "IG-33 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BREAKOUT_PULLBACK_LONG",
+    "file": "SETUP_BREAKOUT_PULLBACK_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "breakout-pullback"
+    ],
+    "sources": [
+      "IG-33 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TREND_FROM_THE_OPEN",
+    "file": "SETUP_TREND_FROM_THE_OPEN.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "OPENRANGE",
+      "OPEN",
+      "trend-open"
+    ],
+    "sources": [
+      "IG-33 panel 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_MA_GAP_BAR",
+    "file": "SETUP_MA_GAP_BAR.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "ma-gap"
+    ],
+    "sources": [
+      "IG-33 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SMALL_PULLBACK_DAY",
+    "file": "SETUP_SMALL_PULLBACK_DAY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "small-pullback"
+    ],
+    "sources": [
+      "IG-33 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PRICE_ACTION_DO_NOT_TRADE",
+    "file": "DISC_PRICE_ACTION_DO_NOT_TRADE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "do-not-trade"
+    ],
+    "sources": [
+      "IG-33 footer"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_TREND_HEALTH_HOLD",
+    "file": "RULE_TREND_HEALTH_HOLD.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "trend-health"
+    ],
+    "sources": [
+      "IG-31 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_VOLUME_FADE",
+    "file": "EXIT_VOLUME_FADE.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "volume-fade"
+    ],
+    "sources": [
+      "IG-31 panel 7"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_HIGHER_TIMEFRAME_AGAINST",
+    "file": "RISK_HIGHER_TIMEFRAME_AGAINST.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "30min-vs-15min"
+    ],
+    "sources": [
+      "IG-31 panel 9"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SPIKE_FIRST_PULLBACK",
+    "file": "SETUP_SPIKE_FIRST_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "spike-pullback"
+    ],
+    "sources": [
+      "IG-32 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_HIGH_2_PULLBACK",
+    "file": "SETUP_HIGH_2_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "high-2"
+    ],
+    "sources": [
+      "IG-32 panel 2"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_INSIDE_BAR_BREAKOUT",
+    "file": "SETUP_INSIDE_BAR_BREAKOUT.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "ii-ioi"
+    ],
+    "sources": [
+      "IG-32 panel 3"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_FAILED_LOW_2_WEDGE",
+    "file": "SETUP_FAILED_LOW_2_WEDGE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "wedge"
+    ],
+    "sources": [
+      "IG-32 panel 4"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SECOND_ENTRY",
+    "file": "SETUP_SECOND_ENTRY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "second-entry"
+    ],
+    "sources": [
+      "IG-32 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TREND_LINE_PULLBACK",
+    "file": "SETUP_TREND_LINE_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "trend-line"
+    ],
+    "sources": [
+      "IG-32 panel 6"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SPIKE_AND_CHANNEL",
+    "file": "SETUP_SPIKE_AND_CHANNEL.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "spike-channel"
+    ],
+    "sources": [
+      "IG-32 panel 7"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_REVERSAL_BAR_LONG",
+    "file": "SETUP_REVERSAL_BAR_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "reversal-bar"
+    ],
+    "sources": [
+      "IG-32 panel 8"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PRICE_ACTION_ENTRIES_DO_NOT_TRADE",
+    "file": "DISC_PRICE_ACTION_ENTRIES_DO_NOT_TRADE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "do-not-trade"
+    ],
+    "sources": [
+      "IG-32 footer"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_OPEN_DRIVE",
+    "file": "SETUP_OPEN_DRIVE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "DRIVE",
+      "OPEN",
+      "open-drive"
+    ],
+    "sources": [
+      "IG-34 panel 9"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_OPEN_TEST_DRIVE",
+    "file": "SETUP_OPEN_TEST_DRIVE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "DRIVE",
+      "OPEN",
+      "open-test-drive"
+    ],
+    "sources": [
+      "IG-34 panel 1"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_GAP_HOLDS_SUPPORT",
+    "file": "SETUP_GAP_HOLDS_SUPPORT.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "GAP",
+      "OPEN",
+      "gap-trade"
+    ],
+    "sources": [
+      "IG-34 panel 5"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PROFILE_DO_NOT_TRADE",
+    "file": "DISC_PROFILE_DO_NOT_TRADE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "do-not-trade"
+    ],
+    "sources": [
+      "IG-34 footer"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_STRUCTURE_VOLUME_DO_NOT_TRADE",
+    "file": "DISC_STRUCTURE_VOLUME_DO_NOT_TRADE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "do-not-trade"
+    ],
+    "sources": [
+      "IG-35 footer"
+    ],
+    "status": "sheet-stated"
+  }
+]

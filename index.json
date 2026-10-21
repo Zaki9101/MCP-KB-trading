@@ -1,0 +1,30 @@
+{
+  "core": "kb/core.md",
+  "always": [
+    "R01_UNIVERSE_LANE_A",
+    "R02_ENTRY_WINDOWS",
+    "R03_STOP_CAP",
+    "R04_ORDER_AND_CHASE",
+    "R05_SIZE",
+    "R06_DAILY_LOSS_AND_TIER1",
+    "R07_GIVEBACK",
+    "R08_LOSERS_TRIES_TICKETS",
+    "R09_TARGET_AND_PARTIAL",
+    "R10_BREAKEVEN",
+    "R15_CONFIRMATION",
+    "R16_FOUR_NEVERS",
+    "R17_HALTS_AND_DATA",
+    "R18_SHORTS_OFF"
+  ],
+  "by_tag": {
+    "JBE": ["S01_JBE_BASE_BREAK", "R14_INDEX_AND_CONTEXT"],
+    "GAP": ["S02_GAP_AND_GO", "R14_INDEX_AND_CONTEXT"],
+    "FLAG": ["S03_BULL_FLAG"],
+    "PULLBACK": ["S04_PULLBACK_5MIN"],
+    "VWAP": ["S05_VWAP_FIRST_PULLBACK"],
+    "PMH": ["S06_PREMARKET_HIGH_BREAK", "R14_INDEX_AND_CONTEXT"],
+    "manage": ["R11_STRUCTURE_TRAIL", "R12_TIME_STOP", "R13_EXIT_NOW"],
+    "OPEN_RANGE": ["R19_OPEN_RANGES_OFF"]
+  },
+  "note": "Load core + 'always' cards every query, plus the card(s) matching the setup tag. Manage cards load for open-position questions. R19 loads for any open-range question."
+}

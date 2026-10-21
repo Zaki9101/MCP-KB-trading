@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Bear flag continuation short (mirror of bull flag, TR previous-low break)",
+    "pages": "p.160, p.162-163, p.171, p.177",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Drop-Base-Implosion (DBI), descending-triangle break, Flat Bottom / Base Breakdown",
+    "pages": "p.160, p.222-227",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Held offer short; seller disappears = cover and flip; re-short after failed squeeze",
+    "pages": "p.088-089, p.104",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Moving Average Pop (short fade of a bounce into a declining MA)",
+    "pages": "p.183, p.185, p.189, p.194",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Euphoria reversal short trigger (lost support, weak retest, second break)",
+    "pages": "p.075",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Blow-off fade short after a failed break (ADBE 37.50)",
+    "pages": "p.079-080",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Passive distribution short (editor note, after 53.00 is lost)",
+    "pages": "p.074-075",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Biotech rug pull / block order clearing bids before the bell (AMRN)",
+    "pages": "p.067-068, p.101",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Double top short (break of the low between the peaks)",
+    "pages": "p.158-159",
+    "reason": "Short setup; v1 is long-only."
+  },
+  {
+    "title": "Open-High / Open-Low Break (opening range breakout, long and short)",
+    "pages": "p.155, p.159-160, p.198-207",
+    "reason": "long-lane-b: experienced only per the book; ORB selection targets $20-$200 mid/large caps, not low floats."
+  },
+  {
+    "title": "Opening Drive / Momentum on the Open (LNKD, V)",
+    "pages": "p.195-198",
+    "reason": "long-lane-b: built on PB/OGT liquid large caps; schematic stop 60c, far over the Lane A caps."
+  },
+  {
+    "title": "JBE relative-strength version (stock holds near high while index sits at range low)",
+    "pages": "p.211-213",
+    "reason": "long-lane-b: index-relative candidates are Lane B add-ons (p.051)."
+  },
+  {
+    "title": "Index-relative candidate tests and TR open-play candidate filter",
+    "pages": "p.051-052",
+    "reason": "long-lane-b: book labels this section Lane B add-ons."
+  },
+  {
+    "title": "Lane B selection table (liquid news names: ADV 1M+, ATR $1/$2, 3+ point range, 2x ATR extension)",
+    "pages": "p.042, p.048-049",
+    "reason": "long-lane-b: experienced only; separate universe."
+  },
+  {
+    "title": "Stock In Play tests for liquid names (+/-3% premarket, 3+ point range)",
+    "pages": "p.032, p.047",
+    "reason": "long-lane-b: Lane A uses the +10% day-change floor instead."
+  },
+  {
+    "title": "Post-halt micro pullback entry (K, R, T, L levels)",
+    "pages": "p.027, p.184",
+    "reason": "long-lane-b: halt trading is experienced only; beginners do not trade halts."
+  },
+  {
+    "title": "L entry (early entry inside the pullback from L2 only)",
+    "pages": "p.183, p.185",
+    "reason": "long-lane-b: book marks it experienced only."
+  },
+  {
+    "title": "Tape scalp and scalper 1:1 targets",
+    "pages": "p.158, p.199, p.228",
+    "reason": "long-lane-b: experienced only; Ch.8 scalp sheet outside slice."
+  },
+  {
+    "title": "Tape reading in thick, high-volume stocks",
+    "pages": "p.101",
+    "reason": "long-lane-b: applies to liquid tens-of-millions ADV names."
+  },
+  {
+    "title": "Second Day Play / former runners",
+    "pages": "p.053",
+    "reason": "Day-two setup from PB (Lane B style); sheet is in Ch.7, outside this slice."
+  },
+  {
+    "title": "Capitulation reversal long (vertical drop + volume peak, long scalp after the stall)",
+    "pages": "p.071, p.075-076, p.078, p.103",
+    "reason": "Counter-trend reversal, not momentum continuation; no matching setup tag; full sheet is Ch.7 S6 outside this slice."
+  },
+  {
+    "title": "Hammer / doji / topping-tail reversal candles",
+    "pages": "p.157, p.160",
+    "reason": "Reversal setup; Hammer sheet outside this slice."
+  },
+  {
+    "title": "Regular range trading (buy first strength off the low, sell near the top)",
+    "pages": "p.024, p.099",
+    "reason": "Range trading, not momentum; Ch.6 range sheets outside slice."
+  },
+  {
+    "title": "Wyckoff market cycle, phases and effort vs result",
+    "pages": "p.110-113",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Bullish supply test (after accumulation)",
+    "pages": "p.119-120",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Bearish demand test (after distribution)",
+    "pages": "p.121-122",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1. Also short."
+  },
+  {
+    "title": "Selling and buying climax tables",
+    "pages": "p.123-124",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Hammer with stopping volume; hanging man and shooting star by volume",
+    "pages": "p.125-129, p.133-135",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Volume at price and equivolume tools",
+    "pages": "p.137-138",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Clear-water breakout from congestion",
+    "pages": "p.138-140",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Clear-water breakdown from congestion",
+    "pages": "p.140-141",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1. Also short."
+  },
+  {
+    "title": "VPA breakout entry, three variants ($19.90 / $20.00 / retest)",
+    "pages": "p.141-142, p.149",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Falling triangle breakdown",
+    "pages": "p.142-144",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1. Also short."
+  },
+  {
+    "title": "Rising triangle breakout",
+    "pages": "p.144-145",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Pennant (direction-neutral)",
+    "pages": "p.145-147",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Volume must confirm everything: healthy vs weak uptrend",
+    "pages": "p.149-150",
+    "reason": "VPA / Wyckoff material (Ch.4); out of scope for v1."
+  },
+  {
+    "title": "Footprint / order-flow translations (delta, imbalance, volume profile)",
+    "pages": "p.101-102",
+    "reason": "Futures/forex order-flow material translated by extractors; out of scope for v1."
+  },
+  {
+    "title": "Notes scanner presets: Top/Bottom Reversal, VWAP Breaking Out, Turbo, RSI Extreme",
+    "pages": "p.029, p.038",
+    "reason": "Reversal and Lane B presets; the book says they are not the final selection floor."
+  },
+  {
+    "title": "1-min ORB first-candle VWAP matrix and the 2-minute pullback tuning",
+    "pages": "p.180, p.205-206",
+    "reason": "Excluded source material per the build brief."
+  },
+  {
+    "title": "Regulation and account facts (PDT, margin, SSR, borrow, T+1)",
+    "pages": "p.027-028",
+    "reason": "Dated regulatory reference to verify with the broker, not a trading rule."
+  },
+  {
+    "title": "Notes setups-by-time map (VWAP Reversal, VWAP False Breakout, VWAP MA Trend, Fallen Angel)",
+    "pages": "p.016-017, p.161",
+    "reason": "Names only; those setup sheets are outside this slice."
+  },
+  {
+    "title": "Hot sectors, sympathy tiers and Tier4 fades",
+    "pages": "p.053-054",
+    "reason": "Context only; the actionable fade is a short."
+  },
+  {
+    "title": "Staircase/Channel Trend, Halt Up, Pullback to Support, GMan Pullback, Trend Trend, Hot IPO sheets",
+    "pages": "p.151-152, p.159-160",
+    "reason": "Named in the selector only; sheets are beyond p.228 (other slices)."
+  },
+  {
+    "title": "Bull Flag worked example entry 1.13 / stop 1.10 / targets 1.17-1.23",
+    "pages": "p.162",
+    "reason": "Cited in the extraction but not found in the page text (figure only); not used."
+  }
+]

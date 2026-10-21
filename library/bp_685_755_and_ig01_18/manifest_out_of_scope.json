@@ -1,0 +1,130 @@
+[
+ {
+  "title": "Wyckoff Spring #3 shake entry",
+  "pages": "p.685, 687",
+  "reason": "Wyckoff: out of scope"
+ },
+ {
+  "title": "Wyckoff climax scalp (SC to AR), long and short",
+  "pages": "p.685-686",
+  "reason": "Wyckoff: out of scope"
+ },
+ {
+  "title": "Wyckoff trading-range methodology end of Ch.17",
+  "pages": "p.685-689",
+  "reason": "Wyckoff: out of scope"
+ },
+ {
+  "title": "Volatility breakout from prior close (ATR)",
+  "pages": "p.693-695",
+  "reason": "Daily-bar futures/bond swing, not intraday US stock momentum"
+ },
+ {
+  "title": "O'Neil cup-and-handle base breakout (daily)",
+  "pages": "p.695-696",
+  "reason": "Position/swing on daily bars, not intraday"
+ },
+ {
+  "title": "Donchian/Turtle channel breakout",
+  "pages": "p.696-697",
+  "reason": "Daily futures/stock swing material"
+ },
+ {
+  "title": "Ch.18 variations (Turtle Soup, Roberts 1-2-3, DMI/ADX, Kaufman MA, etc.)",
+  "pages": "p.697-698",
+  "reason": "Swing/price-action material, mostly no stop or trigger in source"
+ },
+ {
+  "title": "Tharp swing trailing stops, profit-retracement ladder, 2-day timed exit, reaction exit",
+  "pages": "p.700-701",
+  "reason": "Swing only; intraday give-back from Ch.8 governs"
+ },
+ {
+  "title": "Tharp expectancy/position-sizing theory, martingale and ruin examples",
+  "pages": "p.702-705",
+  "reason": "Background theory, no intraday rule numbers to card"
+ },
+ {
+  "title": "O'Neil scanner screen (EPS growth, relative strength)",
+  "pages": "p.695",
+  "reason": "Swing fundamentals screen, not Lane A"
+ },
+ {
+  "title": "Tharp stock filters (10,000 shares, new issues, under $25M cap)",
+  "pages": "p.705",
+  "reason": "Swing filter; Lane A filters carded instead"
+ },
+ {
+  "title": "Open-High / Open-Low Break (long and short)",
+  "pages": "p.711, 720, 749; IG-15, IG-05, IG-09, IG-13",
+  "reason": "scope long-lane-b: experienced only; Lane B not carded in v1",
+  "scope": "long-lane-b"
+ },
+ {
+  "title": "Lane B scanner filters and index-relative play (ATR, 3+ points, index near low)",
+  "pages": "p.710; IG-13",
+  "reason": "scope long-lane-b: experienced only",
+  "scope": "long-lane-b"
+ },
+ {
+  "title": "Scalp exit when bid weakens (experienced scalp)",
+  "pages": "IG-02, IG-11",
+  "reason": "scope long-lane-b: experienced only",
+  "scope": "long-lane-b"
+ },
+ {
+  "title": "S4 rug pull pre-bell half-size entry",
+  "pages": "p.711; IG-09",
+  "reason": "Side not stated in this slice; only the exception is carded in RULE_NO_ENTRY_PREBELL"
+ },
+ {
+  "title": "TR base break afternoon examples",
+  "pages": "p.720, 727",
+  "reason": "Not traded as written; afternoon rule carded"
+ },
+ {
+  "title": "DBI drop-base-break short, open-low short",
+  "pages": "IG-15, IG-05, IG-04",
+  "reason": "Short setup"
+ },
+ {
+  "title": "Hot IPO / bear trap / bull trap fade, parabolic squeeze fade, head and shoulders",
+  "pages": "IG-07",
+  "reason": "Fade, short or pure chart pattern; no stop numbers"
+ },
+ {
+  "title": "Offer/flip short S10-S11, S8 range-edge short, S13 resistance both ways, S17-S22 Camarilla",
+  "pages": "IG-04, IG-06",
+  "reason": "Short setups or pivot material (see IG-19, other slice)"
+ },
+ {
+  "title": "Seller steps down / fast selling spike cover quarter, held offer short, scalp short",
+  "pages": "IG-11",
+  "reason": "Short-side"
+ },
+ {
+  "title": "Short-side exit variants: halt down, no-news halt, short after support lost",
+  "pages": "IG-02, IG-05, IG-07",
+  "reason": "Short setups"
+ },
+ {
+  "title": "VPA and Wyckoff signatures sheet (effort vs result, supply/demand tests, VAP zones)",
+  "pages": "IG-18",
+  "reason": "VPA and Wyckoff: out of scope"
+ },
+ {
+  "title": "Order flow and volume profile (footprint, stacked imbalances, delta divergence)",
+  "pages": "IG-14",
+  "reason": "Futures/forex order-flow numbers; stock lines are editor translation, not book"
+ },
+ {
+  "title": "Wyckoff term glossary and psychology definitions",
+  "pages": "p.740-755",
+  "reason": "Glossary, no rules beyond cards already written"
+ },
+ {
+  "title": "Notes overrides and disagreements",
+  "pages": "p.734-739",
+  "reason": "Reference only; values used where cited"
+ }
+]

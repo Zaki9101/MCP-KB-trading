@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "DATA_HALT_RISK__bp_457_684",
+    "file": "DATA_HALT_RISK__bp_457_684.md",
+    "kind": "data",
+    "scope": "long-lane-a",
+    "tags": [
+      "DATA",
+      "ANY",
+      "halts"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_DAILY_ROUTINE",
+    "file": "DISC_DAILY_ROUTINE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "routine"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.479",
+      "BLUEPRINT_HANDBOOK p.480",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_DECISION_BIAS_CHECKLIST",
+    "file": "DISC_DECISION_BIAS_CHECKLIST.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "bias-check"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.506"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_EQUITY_CURVE_ACTIVITY",
+    "file": "DISC_EQUITY_CURVE_ACTIVITY.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "equity-curve"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.488",
+      "BLUEPRINT_HANDBOOK p.489",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_FOMO_50",
+    "file": "DISC_FOMO_50.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "fomo"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.481",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.494"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_GET_GREEN_AND_DONE",
+    "file": "DISC_GET_GREEN_AND_DONE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "profit-protection"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.498"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_HOLDING_BANDS",
+    "file": "DISC_HOLDING_BANDS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "stats-review"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.485",
+      "BLUEPRINT_HANDBOOK p.490"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_IF_THEN_SCENARIO",
+    "file": "DISC_IF_THEN_SCENARIO.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "planning"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.479",
+      "BLUEPRINT_HANDBOOK p.482"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_JOURNAL_REVIEW",
+    "file": "DISC_JOURNAL_REVIEW.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "CLOSE",
+      "journal"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.481",
+      "BLUEPRINT_HANDBOOK p.483",
+      "BLUEPRINT_HANDBOOK p.490"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_LEARNING_PATH_SIM_GATE",
+    "file": "DISC_LEARNING_PATH_SIM_GATE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "trader-stage"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.486",
+      "BLUEPRINT_HANDBOOK p.489",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_MARKET_STRENGTH_CHECK",
+    "file": "DISC_MARKET_STRENGTH_CHECK.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "market-regime"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.465",
+      "BLUEPRINT_HANDBOOK p.472",
+      "BLUEPRINT_HANDBOOK p.478",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_NO_AUTOMATIC_FLIP",
+    "file": "DISC_NO_AUTOMATIC_FLIP.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "flip-after-stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.493",
+      "BLUEPRINT_HANDBOOK p.592",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.609"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_NO_FEELERS",
+    "file": "DISC_NO_FEELERS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "feelers"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.493",
+      "BLUEPRINT_HANDBOOK p.496"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_NO_TRADE_CONDITIONS",
+    "file": "DISC_NO_TRADE_CONDITIONS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "no-trade"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.496",
+      "BLUEPRINT_HANDBOOK p.497"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_OVERTRADING_TWO_TESTS",
+    "file": "DISC_OVERTRADING_TWO_TESTS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "overtrading"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.496"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_PRE_TRADE_CHECKLIST",
+    "file": "DISC_PRE_TRADE_CHECKLIST.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "checklist"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.482"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_PROCESS_OVER_PNL",
+    "file": "DISC_PROCESS_OVER_PNL.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "process"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.481",
+      "BLUEPRINT_HANDBOOK p.483",
+      "BLUEPRINT_HANDBOOK p.494"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_PROGRESS_SCORING",
+    "file": "DISC_PROGRESS_SCORING.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "self-assessment"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.474",
+      "BLUEPRINT_HANDBOOK p.475",
+      "BLUEPRINT_HANDBOOK p.476",
+      "BLUEPRINT_HANDBOOK p.486"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_STOP_TRADING_TRIGGERS",
+    "file": "DISC_STOP_TRADING_TRIGGERS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "stop-trading"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.717"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_THREE_LOSERS_STOP__bp_457_684",
+    "file": "DISC_THREE_LOSERS_STOP__bp_457_684.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "losing-streak"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.493",
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.496",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "DISC_TILT_PROTOCOL",
+    "file": "DISC_TILT_PROTOCOL.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "tilt"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.494",
+      "BLUEPRINT_HANDBOOK p.495"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_WIN_RATE_REVIEW_FLAG",
+    "file": "DISC_WIN_RATE_REVIEW_FLAG.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "metrics"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.484",
+      "BLUEPRINT_HANDBOOK p.485",
+      "BLUEPRINT_HANDBOOK p.486",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "EXIT_BREAKEVEN_THEN_TRAIL",
+    "file": "EXIT_BREAKEVEN_THEN_TRAIL.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "trailing-stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.589",
+      "BLUEPRINT_HANDBOOK p.607",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.713"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "EXIT_CLOSES_DECIDE_HOLD",
+    "file": "EXIT_CLOSES_DECIDE_HOLD.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "follow-through"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.552",
+      "BLUEPRINT_HANDBOOK p.566",
+      "BLUEPRINT_HANDBOOK p.575"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_FLAT_AT_CLOSE",
+    "file": "EXIT_FLAT_AT_CLOSE.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "CLOSE",
+      "overnight"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_HONOR_STOP",
+    "file": "EXIT_HONOR_STOP.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "stop-discipline"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.506"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_MACD_VOLUME_JACKKNIFE",
+    "file": "EXIT_MACD_VOLUME_JACKKNIFE.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "MORNING",
+      "invalidation"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.477"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_MEASURED_MOVE_TARGETS",
+    "file": "EXIT_MEASURED_MOVE_TARGETS.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "measured-move"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.582",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_REASON2SELL_LABEL",
+    "file": "EXIT_REASON2SELL_LABEL.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "trade-label"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.481",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.483",
+      "BLUEPRINT_HANDBOOK p.491"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_RUNNER_TREND_SWING",
+    "file": "EXIT_RUNNER_TREND_SWING.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "runner"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.582",
+      "BLUEPRINT_HANDBOOK p.607",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.609",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "EXIT_SCALE_OUT_FIRST_TARGET",
+    "file": "EXIT_SCALE_OUT_FIRST_TARGET.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "scale-out"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.457",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.500",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "EXIT_TAPE_STALL_AFTER_ENTRY",
+    "file": "EXIT_TAPE_STALL_AFTER_ENTRY.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "time-stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.713"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_ACCOUNT_GUARDRAILS",
+    "file": "RISK_ACCOUNT_GUARDRAILS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "account"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.471",
+      "BLUEPRINT_HANDBOOK p.490"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_ADDS_WINNERS_ONLY",
+    "file": "RISK_ADDS_WINNERS_ONLY.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "adds"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_DAILY_MAX_LOSS__bp_457_684",
+    "file": "RISK_DAILY_MAX_LOSS__bp_457_684.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "daily-loss"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.476",
+      "BLUEPRINT_HANDBOOK p.477",
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_DRAWDOWN_REHAB",
+    "file": "RISK_DRAWDOWN_REHAB.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "drawdown"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.461",
+      "BLUEPRINT_HANDBOOK p.462",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_FOUR_NEVERS",
+    "file": "RISK_FOUR_NEVERS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "hard-limits"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.577",
+      "BLUEPRINT_HANDBOOK p.717"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_GIVEBACK_STAGES",
+    "file": "RISK_GIVEBACK_STAGES.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "giveback"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.495",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_MIN_REWARD_RISK_2R",
+    "file": "RISK_MIN_REWARD_RISK_2R.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "reward-risk"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.460",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_PRICE_BAND_SHARE_CEILING",
+    "file": "RISK_PRICE_BAND_SHARE_CEILING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "position-size"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.457",
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_REDUCED_SIZE_CASES__bp_457_684",
+    "file": "RISK_REDUCED_SIZE_CASES__bp_457_684.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "reduced-size"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.457",
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_SIZE_DOWN_STAIRCASE",
+    "file": "RISK_SIZE_DOWN_STAIRCASE.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "size-down"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.462",
+      "BLUEPRINT_HANDBOOK p.487",
+      "BLUEPRINT_HANDBOOK p.716"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_SIZE_TO_LIQUIDITY",
+    "file": "RISK_SIZE_TO_LIQUIDITY.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "liquidity"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.490"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_SIZE_UP_GATES",
+    "file": "RISK_SIZE_UP_GATES.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "size-up"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.459",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.472",
+      "BLUEPRINT_HANDBOOK p.487",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_STARTING_LIMITS",
+    "file": "RISK_STARTING_LIMITS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "trade-caps"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.459",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.486",
+      "BLUEPRINT_HANDBOOK p.496",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_STOP_BEFORE_ENTRY_RESTING",
+    "file": "RISK_STOP_BEFORE_ENTRY_RESTING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "stop-type"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.493",
+      "BLUEPRINT_HANDBOOK p.506",
+      "BLUEPRINT_HANDBOOK p.713"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_STOP_CENT_CAPS",
+    "file": "RISK_STOP_CENT_CAPS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.575",
+      "BLUEPRINT_HANDBOOK p.580",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.713"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RISK_TIER_SIZING_CEILING",
+    "file": "RISK_TIER_SIZING_CEILING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "position-size"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.457",
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.461",
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.471",
+      "BLUEPRINT_HANDBOOK p.715"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_BAR_CLOSE_DECIDES",
+    "file": "RULE_BAR_CLOSE_DECIDES.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "bar-close"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.547",
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.575",
+      "BLUEPRINT_HANDBOOK p.577",
+      "BLUEPRINT_HANDBOOK p.578"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_BREAKOUT_VOLUME_WARNINGS",
+    "file": "RULE_BREAKOUT_VOLUME_WARNINGS.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "breakout-volume"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.499"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_DAY_TYPE_FIRST__bp_457_684",
+    "file": "RULE_DAY_TYPE_FIRST__bp_457_684.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "OPENRANGE",
+      "OPEN",
+      "day-type"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.479",
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_DEFAULT_TO_RANGE",
+    "file": "RULE_DEFAULT_TO_RANGE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "market-structure"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.578",
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.609"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_ENTRY_METHOD_AND_ORDER",
+    "file": "RULE_ENTRY_METHOD_AND_ORDER.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "order-type"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_LONG_TERM_TREND_CHECK",
+    "file": "RULE_LONG_TERM_TREND_CHECK.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "higher-timeframe"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.494",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_NO_ASSUMED_BOUNCE",
+    "file": "RULE_NO_ASSUMED_BOUNCE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "bottom-picking"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.498"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_NO_CHASE",
+    "file": "RULE_NO_CHASE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "chasing"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_NO_ONE_MINUTE_MICRO",
+    "file": "RULE_NO_ONE_MINUTE_MICRO.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "ANY",
+      "timeframe"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.577",
+      "BLUEPRINT_HANDBOOK p.579",
+      "BLUEPRINT_HANDBOOK p.609",
+      "BLUEPRINT_HANDBOOK p.610"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_PRICE_VOLUME_REASON_ONLY",
+    "file": "RULE_PRICE_VOLUME_REASON_ONLY.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "entry-reason"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.491",
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.494",
+      "BLUEPRINT_HANDBOOK p.576",
+      "BLUEPRINT_HANDBOOK p.577",
+      "BLUEPRINT_HANDBOOK p.609"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_SCALP_OR_SWING_PLAN",
+    "file": "RULE_SCALP_OR_SWING_PLAN.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "trade-plan"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.552",
+      "BLUEPRINT_HANDBOOK p.576",
+      "BLUEPRINT_HANDBOOK p.578",
+      "BLUEPRINT_HANDBOOK p.607",
+      "BLUEPRINT_HANDBOOK p.608",
+      "BLUEPRINT_HANDBOOK p.610",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_SECOND_TRY_ODDS_BY_TIMEFRAME",
+    "file": "RULE_SECOND_TRY_ODDS_BY_TIMEFRAME.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "entry-timing"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.493"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_SESSION_WINDOWS",
+    "file": "RULE_SESSION_WINDOWS.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "session-time"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.458",
+      "BLUEPRINT_HANDBOOK p.477",
+      "BLUEPRINT_HANDBOOK p.479",
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.552",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_SIGNAL_BAR_QUALITY",
+    "file": "RULE_SIGNAL_BAR_QUALITY.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "signal-bar"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.547",
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.552",
+      "BLUEPRINT_HANDBOOK p.572",
+      "BLUEPRINT_HANDBOOK p.578"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_STOP_ENTRY_ONE_TICK",
+    "file": "RULE_STOP_ENTRY_ONE_TICK.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "signal-bar-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.546",
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.575",
+      "BLUEPRINT_HANDBOOK p.578",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_TIGHT_CONSOLIDATION_TRAP",
+    "file": "RULE_TIGHT_CONSOLIDATION_TRAP.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "consolidation"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_TREND_STRENGTH_SIGNS",
+    "file": "RULE_TREND_STRENGTH_SIGNS.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "trend-strength"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.582"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_TWO_TRIES_PER_LEVEL",
+    "file": "RULE_TWO_TRIES_PER_LEVEL.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "re-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.463",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.492",
+      "BLUEPRINT_HANDBOOK p.504",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_UNCONFIRMED_HEADLINE_SPIKE",
+    "file": "RULE_UNCONFIRMED_HEADLINE_SPIKE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "GAP",
+      "ANY",
+      "catalyst-risk"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.494",
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.500",
+      "BLUEPRINT_HANDBOOK p.501"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_UNDER_VWAP_NOT_MOMENTUM",
+    "file": "RULE_UNDER_VWAP_NOT_MOMENTUM.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "ANY",
+      "momentum-filter"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_WITH_TREND_FIRST",
+    "file": "RULE_WITH_TREND_FIRST.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "ANY",
+      "trend-direction"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.551",
+      "BLUEPRINT_HANDBOOK p.578",
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.582",
+      "BLUEPRINT_HANDBOOK p.609"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SCAN_AVOID_STOCK_TYPES",
+    "file": "SCAN_AVOID_STOCK_TYPES.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "ANY",
+      "stock-quality"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.496",
+      "BLUEPRINT_HANDBOOK p.499"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_A_QUALITY_FIVE_POINT",
+    "file": "SCAN_A_QUALITY_FIVE_POINT.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "stock-selection"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.465",
+      "BLUEPRINT_HANDBOOK p.468",
+      "BLUEPRINT_HANDBOOK p.469",
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SCAN_DAILY_CHART_AFTER_NEWS",
+    "file": "SCAN_DAILY_CHART_AFTER_NEWS.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "daily-chart"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.468",
+      "BLUEPRINT_HANDBOOK p.469"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_SHORT_INTEREST_CEILING__bp_457_684",
+    "file": "SCAN_SHORT_INTEREST_CEILING__bp_457_684.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "short-interest"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.490",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_SMALL_ACCOUNT_SWEET_SPOT",
+    "file": "SCAN_SMALL_ACCOUNT_SWEET_SPOT.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "small-account"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.467",
+      "BLUEPRINT_HANDBOOK p.477",
+      "BLUEPRINT_HANDBOOK p.478",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_BREAKOUT_PULLBACK_ENTRY",
+    "file": "SETUP_BREAKOUT_PULLBACK_ENTRY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "breakout-pullback"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.589",
+      "BLUEPRINT_HANDBOOK p.608"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_BREAKOUT_SPIKE_FIRST_PULLBACK",
+    "file": "SETUP_BREAKOUT_SPIKE_FIRST_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "breakout-spike"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.546",
+      "BLUEPRINT_HANDBOOK p.549",
+      "BLUEPRINT_HANDBOOK p.552",
+      "BLUEPRINT_HANDBOOK p.553",
+      "BLUEPRINT_HANDBOOK p.578"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_CHANNEL_START_TEST",
+    "file": "SETUP_CHANNEL_START_TEST.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "ANY",
+      "channel-start-test"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.605",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_FIRST_HOUR_DOUBLE_BOTTOM_FLAG",
+    "file": "SETUP_FIRST_HOUR_DOUBLE_BOTTOM_FLAG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "FLAG",
+      "OPEN",
+      "double-bottom-flag"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.571",
+      "BLUEPRINT_HANDBOOK p.572",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_HIGH2_PULLBACK",
+    "file": "SETUP_HIGH2_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "bar-count"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.548",
+      "BLUEPRINT_HANDBOOK p.553",
+      "BLUEPRINT_HANDBOOK p.554",
+      "BLUEPRINT_HANDBOOK p.576",
+      "BLUEPRINT_HANDBOOK p.588"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_INSIDE_BAR_BREAKOUT_LONG",
+    "file": "SETUP_INSIDE_BAR_BREAKOUT_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "inside-bar"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.558",
+      "BLUEPRINT_HANDBOOK p.559"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_LATE_ENTRY_SWING_PORTION",
+    "file": "SETUP_LATE_ENTRY_SWING_PORTION.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "late-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.556",
+      "BLUEPRINT_HANDBOOK p.557",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_MA_GAP_BAR_20",
+    "file": "SETUP_MA_GAP_BAR_20.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "CLOSE",
+      "ma-gap-bar"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.583",
+      "BLUEPRINT_HANDBOOK p.584",
+      "BLUEPRINT_HANDBOOK p.711",
+      "BLUEPRINT_HANDBOOK p.717"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_MICRO_CHANNEL_HIGH1",
+    "file": "SETUP_MICRO_CHANNEL_HIGH1.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "micro-channel"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.585",
+      "BLUEPRINT_HANDBOOK p.586",
+      "BLUEPRINT_HANDBOOK p.587",
+      "BLUEPRINT_HANDBOOK p.609"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_PREMARKET_FLAG_BREAK",
+    "file": "SETUP_PREMARKET_FLAG_BREAK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PMH",
+      "OPEN",
+      "premarket-chart"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.500",
+      "BLUEPRINT_HANDBOOK p.505",
+      "BLUEPRINT_HANDBOOK p.506",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_SECOND_ENTRY_STRONG_TREND",
+    "file": "SETUP_SECOND_ENTRY_STRONG_TREND.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "second-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.565",
+      "BLUEPRINT_HANDBOOK p.566",
+      "BLUEPRINT_HANDBOOK p.567"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_SMALL_ACCOUNT_MICRO_PULLBACK",
+    "file": "SETUP_SMALL_ACCOUNT_MICRO_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "small-account"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.466",
+      "BLUEPRINT_HANDBOOK p.470",
+      "BLUEPRINT_HANDBOOK p.477",
+      "BLUEPRINT_HANDBOOK p.478",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_SMALL_PULLBACK_TREND_DAY",
+    "file": "SETUP_SMALL_PULLBACK_TREND_DAY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "trend-day"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.589",
+      "BLUEPRINT_HANDBOOK p.590",
+      "BLUEPRINT_HANDBOOK p.591"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_SPIKE_AND_CHANNEL_LONG",
+    "file": "SETUP_SPIKE_AND_CHANNEL_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "spike-and-channel"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.571",
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.582",
+      "BLUEPRINT_HANDBOOK p.593"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_TREND_FROM_OPEN_FIRST_PULLBACK",
+    "file": "SETUP_TREND_FROM_OPEN_FIRST_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "DRIVE",
+      "OPEN",
+      "trend-from-open"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.581",
+      "BLUEPRINT_HANDBOOK p.582",
+      "BLUEPRINT_HANDBOOK p.592",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_TREND_RESUMPTION_DAY",
+    "file": "SETUP_TREND_RESUMPTION_DAY.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "CLOSE",
+      "trend-resumption"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.597",
+      "BLUEPRINT_HANDBOOK p.598",
+      "BLUEPRINT_HANDBOOK p.599",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "SETUP_WEDGE_BULL_FLAG",
+    "file": "SETUP_WEDGE_BULL_FLAG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "FLAG",
+      "MORNING",
+      "wedge"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.548",
+      "BLUEPRINT_HANDBOOK p.562",
+      "BLUEPRINT_HANDBOOK p.563",
+      "BLUEPRINT_HANDBOOK p.564"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_FALSE_BREAKOUT_SIGNS",
+    "file": "TAPE_FALSE_BREAKOUT_SIGNS.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "false-breakout"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.502"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_HIDDEN_SELLER",
+    "file": "TAPE_HIDDEN_SELLER.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "hidden-seller"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.504"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_LONG_TRAP_PRICE_UP_VOLUME_NOT",
+    "file": "TAPE_LONG_TRAP_PRICE_UP_VOLUME_NOT.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "long-trap"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.503"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_PULLBACK_DEPTH",
+    "file": "TAPE_PULLBACK_DEPTH.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "ANY",
+      "pullback-depth"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.550"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_REQUIRE_L2_ON_BREAKOUT",
+    "file": "TAPE_REQUIRE_L2_ON_BREAKOUT.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "confirmation"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.479",
+      "BLUEPRINT_HANDBOOK p.482",
+      "BLUEPRINT_HANDBOOK p.498",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.579",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "TAPE_SCARCE_BID_THICK_ASK",
+    "file": "TAPE_SCARCE_BID_THICK_ASK.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2-book"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.497",
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_WALL_HINT_NOT_TRIGGER",
+    "file": "TAPE_WALL_HINT_NOT_TRIGGER.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2-wall"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.499",
+      "BLUEPRINT_HANDBOOK p.504",
+      "BLUEPRINT_HANDBOOK p.505",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "book-stated"
+  }
+]

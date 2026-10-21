@@ -1,0 +1,117 @@
+[
+ {
+  "title": "Order flow entries, exits, stops (S1-S5, S11-S13)",
+  "pages": "IG-30",
+  "reason": "Futures/forex footprint numbers; out of scope"
+ },
+ {
+  "title": "News, second-day and short-side setups S1-S7, S10, S15, S16, S18, S19; short rules",
+  "pages": "IG-29",
+  "reason": "Short setups"
+ },
+ {
+  "title": "ORB long (experienced)",
+  "pages": "IG-21 panel 3",
+  "reason": "long-lane-b: experienced only"
+ },
+ {
+  "title": "ORB short",
+  "pages": "IG-21 panel 4",
+  "reason": "Short setup"
+ },
+ {
+  "title": "Fake break / fade",
+  "pages": "IG-21 panel 8",
+  "reason": "Short fade"
+ },
+ {
+  "title": "Gap x VWAP matrix (TradeBook)",
+  "pages": "IG-21 panel 2",
+  "reason": "Sourced from Aziz TradeBook; excluded"
+ },
+ {
+  "title": "Outside the band, parabolic short, head and shoulders short, trap shorts",
+  "pages": "IG-22 panels 1,3,4,5",
+  "reason": "Short setups"
+ },
+ {
+  "title": "Bear flag, flat bottom, H&S, double top, bull flag trap fade",
+  "pages": "IG-23 tiles 6,7,9,10,11",
+  "reason": "Short setups"
+ },
+ {
+  "title": "Range-top short",
+  "pages": "IG-25 panel 4",
+  "reason": "Short setup"
+ },
+ {
+  "title": "Trend Trend, GMan pullback, Hot IPO entry, Hot IPO exit",
+  "pages": "IG-26 panels 1,2,6,7",
+  "reason": "long-lane-b: sheet footnote says Lane B (liquid news names)"
+ },
+ {
+  "title": "Fallen angel short",
+  "pages": "IG-26 panel 8",
+  "reason": "Short setup"
+ },
+ {
+  "title": "DBI drop-base, VWAP false-break short",
+  "pages": "IG-27 panels 5,8",
+  "reason": "Short setups"
+ },
+ {
+  "title": "Aziz-style pre-market scan, ORB filter",
+  "pages": "IG-28 panel 2",
+  "reason": "Aziz-style source / experienced-only ORB (Lane B)"
+ },
+ {
+  "title": "Percent volatility (futures units)",
+  "pages": "IG-36 panel 7",
+  "reason": "Futures sizing"
+ },
+ {
+  "title": "Top reversal short preset",
+  "pages": "IG-28 panel 2",
+  "reason": "Short side"
+ },
+ {
+  "title": "VWAP false breakout short, VWAP fade short, VWAP MA trend (short shown)",
+  "pages": "IG-20 panels 2,4,6",
+  "reason": "Short setups; MA trend panel shows only the short side"
+ },
+ {
+  "title": "Pivot-level cards not written: none beyond long sides; R6/S6 short sides",
+  "pages": "IG-19",
+  "reason": "Short sides of panels A-F; long sides written as cards"
+ },
+ {
+  "title": "Micro channel fail",
+  "pages": "IG-33 panel 2",
+  "reason": "1-min chart setup, listed in the sheet's do-not-trade box"
+ },
+ {
+  "title": "Reversal day, breakout fade",
+  "pages": "IG-33 panels 6,9",
+  "reason": "Short/fade setups"
+ },
+ {
+  "title": "Wyckoff cycle, SLV/GLD/AUD/coffee VPA chains, recalibrate",
+  "pages": "IG-31 panels 1,3-6,8",
+  "reason": "Wyckoff and volume-price-analysis chains, several on futures or FX examples (AUD/USD, coffee); counter-trend or weekly"
+ },
+ {
+  "title": "Spike climax reversal (short)",
+  "pages": "IG-32 panel 9",
+  "reason": "Short setup"
+ },
+ {
+  "title": "Value-area rule, late-day spike, inside-day break, 3-to-1 day, neutral-extreme, open rejection, bracket extremes, day types",
+  "pages": "IG-34 panels 2-4,6-8,10-12",
+  "reason": "Dalton market-profile material (TPOs, value area, day types), multi-day context or short side"
+ },
+ {
+  "title": "Benchmark trap, stopping volume, topping-out climax, gap volume read, range reversion, VWAP+VPOC test, HVN/LVN, shortening thrust, Wyckoff phases, LPS, spring, UTAD",
+  "pages": "IG-35 panels 1-12",
+  "reason": "Wyckoff, volume-profile and VPA material; brief excludes these (shorts also in panels 3, 7, 8, 10, 12)"
+ }
+]

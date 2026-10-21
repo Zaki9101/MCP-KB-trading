@@ -1,0 +1,332 @@
+[
+  {
+    "title": "Moving Average Trend Trade (9 EMA ride, Aziz style)",
+    "pages": "p.238-240",
+    "scope": "long-lane-b",
+    "reason": "Sheet skips low-float names and names large-float (500M+) stocks as its home (p.239); not a small-cap Lane A setup."
+  },
+  {
+    "title": "GMan's Pullback Trade (second leg after opening drive)",
+    "pages": "p.240-242",
+    "scope": "long-lane-b",
+    "reason": "PlayBook liquid-market setup on 15/60-min frames with a rising second-try risk; Lane B source and timeframe."
+  },
+  {
+    "title": "Trend-Trend Trade (NPN, FSR; hold to Reason2Sell)",
+    "pages": "p.245-246",
+    "scope": "long-lane-b",
+    "reason": "PlayBook liquid news names held hours to days; Lane B."
+  },
+  {
+    "title": "Shorting a halt resumption / halt going down",
+    "pages": "p.247-250",
+    "scope": "short",
+    "reason": "Short setup; Ch. 19 verdict NDX-18 restricts it to experienced traders."
+  },
+  {
+    "title": "Hot IPO Momentum Trade (FB)",
+    "pages": "p.252-254",
+    "scope": "long-lane-b",
+    "reason": "PlayBook IPO-day liquid name (FB float 421M); beginners manage the core only."
+  },
+  {
+    "title": "VWAP False Breakout / VWAP Fade short (APDN, AHT, SCTY, JWN)",
+    "pages": "p.257-265",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "VWAP Reversal short (SIG)",
+    "pages": "p.265-268",
+    "scope": "short",
+    "reason": "Short side of the VWAP reversal; long side carded."
+  },
+  {
+    "title": "VWAP Moving-Average Trend short and JWN 20-EMA rule",
+    "pages": "p.268-270, p.278",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "5+ consecutive candle short mirror (WDC)",
+    "pages": "p.275",
+    "scope": "short",
+    "reason": "Short mirror of the scanner alert."
+  },
+  {
+    "title": "Fallen Angel short fade / Rising Devil (tentative)",
+    "pages": "p.275-276",
+    "scope": "short",
+    "reason": "Short fade; Rising Devil long mirror is tentative with no entry, stop or target in the source."
+  },
+  {
+    "title": "ORB short (JWN worked example)",
+    "pages": "p.278",
+    "scope": "short",
+    "reason": "Short worked example; ORB timing rule carded."
+  },
+  {
+    "title": "Generic if-then tree and L2 ladder at a bid level",
+    "pages": "p.283-285",
+    "scope": "long-lane-b",
+    "reason": "OneGoodTrade hold-the-bid tape play on liquid names."
+  },
+  {
+    "title": "Ch. 6 S1 Support Play (bid holds / shakeout / dropout)",
+    "pages": "p.287-289",
+    "scope": "long-lane-b",
+    "reason": "OGT hold-the-bid on liquid large caps (STI, MCD, V)."
+  },
+  {
+    "title": "Ch. 6 S2 Unusual Hold on the Bid (UHOB)",
+    "pages": "p.289-291",
+    "scope": "long-lane-b",
+    "reason": "PlayBook tape play; book stops exceed Ch. 19 caps."
+  },
+  {
+    "title": "Ch. 6 S3 Important Level: volume at price, held offer, technical-only, QDEL",
+    "pages": "p.291-293",
+    "scope": "long-lane-b",
+    "reason": "OGT/PB liquid-name subsets; whole/half-dollar subsets are carded."
+  },
+  {
+    "title": "Gap as a level / gap fill (Sprint daily)",
+    "pages": "p.297",
+    "scope": "out-of-v1",
+    "reason": "Daily-chart swing example with no entry or stop."
+  },
+  {
+    "title": "Ch. 6 S5 Level Break-and-Hold (AIG)",
+    "pages": "p.300-301",
+    "scope": "long-lane-b",
+    "reason": "OGT Stock-In-Play inflection on a liquid name."
+  },
+  {
+    "title": "Ch. 6 S7 Proven-Range Trade (buy low, sell high)",
+    "pages": "p.303-304",
+    "scope": "out-of-v1",
+    "reason": "Range mean-reversion, not momentum; day-type rule carded."
+  },
+  {
+    "title": "Ch. 6 S8 Range-Edge Short (and long mirror at the range low)",
+    "pages": "p.305-308",
+    "scope": "short",
+    "reason": "Short setup; long mirror is range trading."
+  },
+  {
+    "title": "Ch. 6 S9 Double Top / Double Bottom",
+    "pages": "p.309-310",
+    "scope": "out-of-v1",
+    "reason": "Pure price-action pattern, both sides; no Lane A specifics."
+  },
+  {
+    "title": "Ch. 6 S10 Held Offer Short",
+    "pages": "p.310-311",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 6 S11 Level Flip (stop and reverse)",
+    "pages": "p.312-313",
+    "scope": "long-lane-b",
+    "reason": "OGT/PB flip on liquid names; begins as a short."
+  },
+  {
+    "title": "Ch. 6 S12 Breakdown at Support (failed breakdown long / real breakdown short)",
+    "pages": "p.313-315",
+    "scope": "long-lane-b",
+    "reason": "OGT/PB held-bid read on liquid names; short half is out of scope."
+  },
+  {
+    "title": "Ch. 6 S13 Resistance Both Sides",
+    "pages": "p.316-317",
+    "scope": "long-lane-b",
+    "reason": "OGT/PB both-sides level play."
+  },
+  {
+    "title": "Ch. 6 S14 IPO Price Support Play",
+    "pages": "p.317-319",
+    "scope": "long-lane-b",
+    "reason": "IPO-day liquid name."
+  },
+  {
+    "title": "Ch. 6 S15 Market Plays (index-driven)",
+    "pages": "p.319-320",
+    "scope": "long-lane-b",
+    "reason": "Index-in-sync liquid names; Ch. 19 says Lane A treats the index as secondary."
+  },
+  {
+    "title": "Camarilla pivot strategies A-F (S17-S22)",
+    "pages": "p.328-344",
+    "scope": "long-lane-b",
+    "reason": "Worked on $100-450 stocks; structural stops of 70c-$1.70 exceed caps (Ch. 19 p.713); not small-cap momentum."
+  },
+  {
+    "title": "Ch. 6 S23 Daily Support/Resistance Trade (Aziz style)",
+    "pages": "p.344-346",
+    "scope": "long-lane-b",
+    "reason": "Notes name it a medium-float $10-$100 strategy (p.345)."
+  },
+  {
+    "title": "Before-every-level-trade checklist and level no-trade table",
+    "pages": "p.347",
+    "scope": "long-lane-b",
+    "reason": "Level-play checklist for hold-the-bid trades; the CEP prior-day-high rule is carded."
+  },
+  {
+    "title": "Ch. 7 S1 Second Day Play (EDU short, long mirror)",
+    "pages": "p.355-357",
+    "scope": "short",
+    "reason": "Short shown; long mirror is a PlayBook Lane B play."
+  },
+  {
+    "title": "Ch. 7 S2 News Gap-Down Bear Flag / VWAP Fade (JCP)",
+    "pages": "p.358-360",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S3 Gap-Down News Pop Fade (LLY)",
+    "pages": "p.360-361",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S4 Biotech Rug Pull / pre-bell exception",
+    "pages": "p.361-363",
+    "scope": "short",
+    "reason": "Short setup (the only 9:28-9:35 exception)."
+  },
+  {
+    "title": "Short continuation table (hit the new low, bear flags, failed bounce)",
+    "pages": "p.363",
+    "scope": "short",
+    "reason": "Short setups."
+  },
+  {
+    "title": "Event trade (Fed, gold and silver futures)",
+    "pages": "p.363",
+    "scope": "out-of-v1",
+    "reason": "Futures example, short shown."
+  },
+  {
+    "title": "Ch. 7 S5 Reversal Long After Exhaustion Gap (NKE)",
+    "pages": "p.364-366",
+    "scope": "long-lane-b",
+    "reason": "Institutional large cap, labelled Experienced (p.350)."
+  },
+  {
+    "title": "Ch. 7 S6 Capitulation V-Bottom (grades A/B/C)",
+    "pages": "p.366-373",
+    "scope": "long-lane-b",
+    "reason": "Counter-trend; grade A pros only, grade B experienced Tier1 (p.350); PB/OGT/TR liquid names."
+  },
+  {
+    "title": "Ch. 7 S7 Reversal After Confirmation (APOL) and short mirror",
+    "pages": "p.374-376",
+    "scope": "long-lane-b",
+    "reason": "PlayBook liquid-name reversal; short mirror out of scope."
+  },
+  {
+    "title": "Ch. 7 S8 Oversold / Capitulation Bounce (ORCL, ROH)",
+    "pages": "p.376-378",
+    "scope": "long-lane-b",
+    "reason": "PlayBook large-cap bounce."
+  },
+  {
+    "title": "Ch. 7 S9 euphoria short after lost support",
+    "pages": "p.378-380",
+    "scope": "short",
+    "reason": "Short side; the exit rule is carded."
+  },
+  {
+    "title": "Ch. 7 fade rules, odds filter and when-not-to-fade warnings",
+    "pages": "p.351-353",
+    "scope": "short",
+    "reason": "Fade framework (against the trend); Ch. 19 bars fades for beginners."
+  },
+  {
+    "title": "Short-side mechanics (locate, SSR, uptick, borrow)",
+    "pages": "p.353-354",
+    "scope": "short",
+    "reason": "Short-selling mechanics."
+  },
+  {
+    "title": "Not-tradable plays: gap fade, mean-reversion fade, all-in trade",
+    "pages": "p.350",
+    "scope": "out-of-v1",
+    "reason": "The book itself rejects them as setups."
+  },
+  {
+    "title": "Ch. 7 S10 Fade of a Breakout at Resistance (ADBE)",
+    "pages": "p.381-382",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S11 Head and Shoulders / Inverted H&S",
+    "pages": "p.383-386",
+    "scope": "out-of-v1",
+    "reason": "Pure price-action pattern; no numbered stops or targets."
+  },
+  {
+    "title": "Ch. 7 S13 Bull Trap short and Bear Trap long",
+    "pages": "p.393-395",
+    "scope": "short",
+    "reason": "Bull trap is short; bear-trap long is a fade marked Experienced (p.351)."
+  },
+  {
+    "title": "Ch. 7 S15 Shorting Bear Flags",
+    "pages": "p.398-400",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S16 Trend Shift Short",
+    "pages": "p.401-404",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S18 Gap Fade / Spike Fade",
+    "pages": "p.406-408",
+    "scope": "short",
+    "reason": "Short setup."
+  },
+  {
+    "title": "Ch. 7 S19 parabolic fade, multi-day continuation, recent-IPO breakout",
+    "pages": "p.409-417",
+    "scope": "short",
+    "reason": "Fade is short; multi-day and IPO variants are daily/swing (out of v1). Ride and halt-risk parts carded."
+  },
+  {
+    "title": "Ch. 7 S20 Bollinger-Band / RSI Extreme Reversal",
+    "pages": "p.417-421, p.424",
+    "scope": "long-lane-b",
+    "reason": "Large-cap reversal presets (Lane B scanners); counter-trend, Experienced Tier1 (p.351)."
+  },
+  {
+    "title": "Tape scalp (Level 2 / Time and Sales)",
+    "pages": "p.448-451",
+    "scope": "long-lane-b",
+    "reason": "Experienced only; beginners do not scalp (Ch. 19 p.714)."
+  },
+  {
+    "title": "Cash-flow trading around a core",
+    "pages": "p.445",
+    "scope": "long-lane-b",
+    "reason": "Advanced PlayBook technique; new traders manage the core only."
+  },
+  {
+    "title": "Open-High / Open-Low Break (references only)",
+    "pages": "p.256",
+    "scope": "long-lane-b",
+    "reason": "Experienced only per Ch. 19; sheet body is outside this slice."
+  },
+  {
+    "title": "Wyckoff, Dalton market profile, VPA",
+    "pages": "none in p.229-456",
+    "scope": "out-of-v1",
+    "reason": "No such material found in this slice."
+  }
+]

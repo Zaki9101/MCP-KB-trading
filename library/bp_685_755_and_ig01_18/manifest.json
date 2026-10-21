@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "SCAN_PRICE_BAND",
+    "file": "SCAN_PRICE_BAND.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "price"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_FLOAT",
+    "file": "SCAN_FLOAT.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "float"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_DAY_CHANGE",
+    "file": "SCAN_DAY_CHANGE.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "day-change"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_RVOL",
+    "file": "SCAN_RVOL.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "rvol"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-10",
+      "IG-13"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_VOLUME_PREMARKET",
+    "file": "SCAN_VOLUME_PREMARKET.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "volume"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "BLUEPRINT_HANDBOOK p.735",
+      "IG-13"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_CATALYST",
+    "file": "SCAN_CATALYST.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "news"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_SPREAD",
+    "file": "SCAN_SPREAD.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "spread"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_SHORT_INTEREST",
+    "file": "SCAN_SHORT_INTEREST.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "short-interest"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_DAILY_MAS",
+    "file": "SCAN_DAILY_MAS.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "trend"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_STOCKS_PER_DAY",
+    "file": "SCAN_STOCKS_PER_DAY.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "limits"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13",
+      "IG-09"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_EXTENSION_LEGS",
+    "file": "SCAN_EXTENSION_LEGS.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "MORNING",
+      "extension"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_UNIVERSE_NO_CARD",
+    "file": "SCAN_UNIVERSE_NO_CARD.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "PREOPEN",
+      "universe"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-13"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SCAN_REGRADE_DURING_DAY",
+    "file": "SCAN_REGRADE_DURING_DAY.md",
+    "kind": "scan",
+    "scope": "long-lane-a",
+    "tags": [
+      "SCAN",
+      "MORNING",
+      "regrade"
+    ],
+    "sources": [
+      "IG-13"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_ENTRY_WINDOWS",
+    "file": "RULE_ENTRY_WINDOWS.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "time-windows"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.711",
+      "IG-09",
+      "IG-01"
+    ],
+    "status": "conflict"
+  },
+  {
+    "id": "RULE_NO_ENTRY_PREBELL",
+    "file": "RULE_NO_ENTRY_PREBELL.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "no-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.711",
+      "IG-09"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_MIDDAY_AFTERNOON",
+    "file": "RULE_MIDDAY_AFTERNOON.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "MIDDAY",
+      "time-windows"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.711",
+      "BLUEPRINT_HANDBOOK p.720",
+      "IG-09"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_PREMARKET_SIZE",
+    "file": "RULE_PREMARKET_SIZE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "premarket"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.711",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_MOMENTUM_NEEDS_L2_TAPE",
+    "file": "RULE_MOMENTUM_NEEDS_L2_TAPE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "confirmation"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.712",
+      "IG-05",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_ENTRY_DEFAULT_STYLE",
+    "file": "RULE_ENTRY_DEFAULT_STYLE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "entry-style"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.712",
+      "BLUEPRINT_HANDBOOK p.722",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_CHASE_LIMIT",
+    "file": "RULE_CHASE_LIMIT.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "order-type"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.712",
+      "BLUEPRINT_HANDBOOK p.731",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_NO_VERTICAL_BAR_ENTRY",
+    "file": "RULE_NO_VERTICAL_BAR_ENTRY.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "extension"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-02",
+      "IG-16"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_FLIP_IS_NEW_TRADE",
+    "file": "RULE_FLIP_IS_NEW_TRADE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "re-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717",
+      "IG-06"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RULE_DAY_TYPE_FIRST__bp_685_755_and_ig01_18",
+    "file": "RULE_DAY_TYPE_FIRST__bp_685_755_and_ig01_18.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "day-type"
+    ],
+    "sources": [
+      "IG-09",
+      "IG-13"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_UPTREND_FILTER_5MIN",
+    "file": "RULE_UPTREND_FILTER_5MIN.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "trend-filter"
+    ],
+    "sources": [
+      "IG-08",
+      "IG-05"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RULE_DOJI_IS_A_CLUE",
+    "file": "RULE_DOJI_IS_A_CLUE.md",
+    "kind": "rule",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "ANY",
+      "candle"
+    ],
+    "sources": [
+      "IG-08"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_STOP_PLACEMENT",
+    "file": "RISK_STOP_PLACEMENT.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "BLUEPRINT_HANDBOOK p.687",
+      "IG-02",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_CENT_CAPS",
+    "file": "RISK_CENT_CAPS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "stop-cap"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "IG-03",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_STOP_PADDING",
+    "file": "RISK_STOP_PADDING.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "padding"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "IG-01",
+      "IG-02"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_HARD_STOP_ORDERS",
+    "file": "RISK_HARD_STOP_ORDERS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "stop-order"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "IG-01",
+      "IG-02"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_FIRST_TARGET_2R",
+    "file": "RISK_FIRST_TARGET_2R.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "target"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.714",
+      "IG-01",
+      "IG-03"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_DAILY_MAX_LOSS__bp_685_755_and_ig01_18",
+    "file": "RISK_DAILY_MAX_LOSS__bp_685_755_and_ig01_18.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "daily-loss"
+    ],
+    "sources": [
+      "IG-03",
+      "IG-09",
+      "IG-02"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_PERIOD_STOP",
+    "file": "RISK_PERIOD_STOP.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "period-stop"
+    ],
+    "sources": [
+      "IG-03",
+      "IG-02"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_GIVEBACK_TWO_STAGE",
+    "file": "RISK_GIVEBACK_TWO_STAGE.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "giveback"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.700",
+      "IG-03",
+      "IG-02",
+      "IG-09"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_TIER_SIZES",
+    "file": "RISK_TIER_SIZES.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "sizing"
+    ],
+    "sources": [
+      "IG-03"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_SIZE_UP_DOWN",
+    "file": "RISK_SIZE_UP_DOWN.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "staircase"
+    ],
+    "sources": [
+      "IG-03"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_SHARE_CAPS",
+    "file": "RISK_SHARE_CAPS.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "shares"
+    ],
+    "sources": [
+      "IG-03",
+      "BLUEPRINT_HANDBOOK p.714"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "RISK_SLIPPAGE_LIMIT",
+    "file": "RISK_SLIPPAGE_LIMIT.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "slippage"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.731",
+      "BLUEPRINT_HANDBOOK p.736"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "RISK_EQUITY_CURVE",
+    "file": "RISK_EQUITY_CURVE.md",
+    "kind": "risk",
+    "scope": "long-lane-a",
+    "tags": [
+      "RISK",
+      "ANY",
+      "equity-curve"
+    ],
+    "sources": [
+      "IG-03"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_THREE_FULL_RISK_LOSERS",
+    "file": "DISC_THREE_FULL_RISK_LOSERS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "session-stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.716",
+      "IG-09",
+      "IG-02"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_FOUR_NEVERS__bp_685_755_and_ig01_18",
+    "file": "DISC_FOUR_NEVERS__bp_685_755_and_ig01_18.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "nevers"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717",
+      "IG-03"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_TILT_FOMO",
+    "file": "DISC_TILT_FOMO.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "psychology"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717",
+      "BLUEPRINT_HANDBOOK p.751"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_OVERTRADING_TESTS",
+    "file": "DISC_OVERTRADING_TESTS.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "overtrading"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_REENTRY_TWO_TRIES",
+    "file": "DISC_REENTRY_TWO_TRIES.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "re-entry"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717",
+      "IG-03",
+      "IG-06"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_WIN_RATE_REVIEW",
+    "file": "DISC_WIN_RATE_REVIEW.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "review"
+    ],
+    "sources": [
+      "IG-03"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DISC_PREOPEN_ROUTINE",
+    "file": "DISC_PREOPEN_ROUTINE.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "PREOPEN",
+      "routine"
+    ],
+    "sources": [
+      "IG-09",
+      "BLUEPRINT_HANDBOOK p.720",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_POST_SESSION_REVIEW",
+    "file": "DISC_POST_SESSION_REVIEW.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "CLOSE",
+      "review"
+    ],
+    "sources": [
+      "IG-09",
+      "BLUEPRINT_HANDBOOK p.733"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_LIFE_EVENT_STOP",
+    "file": "DISC_LIFE_EVENT_STOP.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "life-events"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.701"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_EXIT_BEFORE_ENTRY",
+    "file": "DISC_EXIT_BEFORE_ENTRY.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "exit-plan"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.705",
+      "IG-01"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DISC_ENTRY_GO_NOGO",
+    "file": "DISC_ENTRY_GO_NOGO.md",
+    "kind": "discipline",
+    "scope": "long-lane-a",
+    "tags": [
+      "DISCIPLINE",
+      "ANY",
+      "checklist"
+    ],
+    "sources": [
+      "IG-01"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_SCALE_OUT_T1",
+    "file": "EXIT_SCALE_OUT_T1.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "scale-out"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.714",
+      "IG-02",
+      "IG-11"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_BREAKEVEN_AND_TRAIL",
+    "file": "EXIT_BREAKEVEN_AND_TRAIL.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "trail"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "IG-16"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_TIME_STOP__bp_685_755_and_ig01_18",
+    "file": "EXIT_TIME_STOP__bp_685_755_and_ig01_18.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "time-stop"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.713",
+      "IG-02"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_TAPE_TURNING",
+    "file": "EXIT_TAPE_TURNING.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "tape"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.714",
+      "IG-02",
+      "IG-11"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "EXIT_SPIKE_ON_VOLUME_JUMP",
+    "file": "EXIT_SPIKE_ON_VOLUME_JUMP.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "MORNING",
+      "spike"
+    ],
+    "sources": [
+      "IG-02",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_EUPHORIA_VERTICAL_BAR",
+    "file": "EXIT_EUPHORIA_VERTICAL_BAR.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "MORNING",
+      "euphoria"
+    ],
+    "sources": [
+      "IG-02",
+      "IG-07",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_CONFIDENCE_VS_HARD_STOP",
+    "file": "EXIT_CONFIDENCE_VS_HARD_STOP.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "confidence-level"
+    ],
+    "sources": [
+      "IG-02",
+      "IG-16"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_NOW_CHECKLIST",
+    "file": "EXIT_NOW_CHECKLIST.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "ANY",
+      "checklist"
+    ],
+    "sources": [
+      "IG-02"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_TOPPING_TAIL",
+    "file": "EXIT_TOPPING_TAIL.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "MORNING",
+      "candle"
+    ],
+    "sources": [
+      "IG-08"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_DISTRIBUTION_NO_BUY",
+    "file": "EXIT_DISTRIBUTION_NO_BUY.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "MORNING",
+      "distribution"
+    ],
+    "sources": [
+      "IG-10",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "EXIT_CLOSE_FLAT",
+    "file": "EXIT_CLOSE_FLAT.md",
+    "kind": "exit",
+    "scope": "long-lane-a",
+    "tags": [
+      "EXIT",
+      "CLOSE",
+      "close"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.711",
+      "IG-02"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_JBE_BASE_BREAK__bp_685_755_and_ig01_18",
+    "file": "SETUP_JBE_BASE_BREAK__bp_685_755_and_ig01_18.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "base-break"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.712",
+      "BLUEPRINT_HANDBOOK p.747",
+      "IG-15",
+      "IG-05",
+      "IG-04"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_JBE_FLAT_LINE",
+    "file": "SETUP_JBE_FLAT_LINE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "flat-line"
+    ],
+    "sources": [
+      "IG-15"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_JBE_PULLBACK_BAND",
+    "file": "SETUP_JBE_PULLBACK_BAND.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "band"
+    ],
+    "sources": [
+      "IG-15"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_JBE_NARROW_RANGE",
+    "file": "SETUP_JBE_NARROW_RANGE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "narrow-range"
+    ],
+    "sources": [
+      "IG-15"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_JBE_TRIANGLE",
+    "file": "SETUP_JBE_TRIANGLE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "OPEN",
+      "triangle"
+    ],
+    "sources": [
+      "IG-15"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CUP_AND_HANDLE_INTRADAY__bp_685_755_and_ig01_18",
+    "file": "SETUP_CUP_AND_HANDLE_INTRADAY__bp_685_755_and_ig01_18.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "MORNING",
+      "cup-handle"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.712",
+      "BLUEPRINT_HANDBOOK p.743",
+      "IG-08",
+      "IG-16",
+      "IG-04"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_BULL_FLAG_ABCD__bp_685_755_and_ig01_18",
+    "file": "SETUP_BULL_FLAG_ABCD__bp_685_755_and_ig01_18.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "FLAG",
+      "OPEN",
+      "abcd"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-08",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PULLBACK_REENTRY_5MIN",
+    "file": "SETUP_PULLBACK_REENTRY_5MIN.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "5min"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-04",
+      "IG-16"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SHALLOW_PULLBACK_9EMA",
+    "file": "SETUP_SHALLOW_PULLBACK_9EMA.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "9ema"
+    ],
+    "sources": [
+      "IG-16"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PULLBACK_FIB_20MA",
+    "file": "SETUP_PULLBACK_FIB_20MA.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "fib-20ma"
+    ],
+    "sources": [
+      "IG-16",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_MA_TREND_PULLBACK",
+    "file": "SETUP_MA_TREND_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "ma-trend"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_FIRST_PULLBACK_VWAP_BREAK",
+    "file": "SETUP_FIRST_PULLBACK_VWAP_BREAK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "first-pullback"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_ONE_MIN_PULLBACK_TGL",
+    "file": "SETUP_ONE_MIN_PULLBACK_TGL.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "1min"
+    ],
+    "sources": [
+      "IG-04",
+      "IG-05"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_GMAN_PULLBACK",
+    "file": "SETUP_GMAN_PULLBACK.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "gman"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PULLBACK_TO_SUPPORT",
+    "file": "SETUP_PULLBACK_TO_SUPPORT.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "support"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_VWAP_BREAK_LONG",
+    "file": "SETUP_VWAP_BREAK_LONG.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "VWAP",
+      "MORNING",
+      "vwap-break"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_OPENING_DRIVE",
+    "file": "SETUP_OPENING_DRIVE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "DRIVE",
+      "OPEN",
+      "open-drive"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-04",
+      "IG-09",
+      "BLUEPRINT_HANDBOOK p.711"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_HALT_UP_TLKR",
+    "file": "SETUP_HALT_UP_TLKR.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "HALT",
+      "MORNING",
+      "halt-up"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-02",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_HAMMER_CAPITULATION",
+    "file": "SETUP_HAMMER_CAPITULATION.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "MORNING",
+      "hammer"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-08",
+      "IG-04",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_CAPITULATION_ABC",
+    "file": "SETUP_CAPITULATION_ABC.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "JBE",
+      "MORNING",
+      "capitulation"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.729",
+      "IG-07",
+      "IG-17"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "SETUP_DOWN_STREAK_HIGH",
+    "file": "SETUP_DOWN_STREAK_HIGH.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "down-streak"
+    ],
+    "sources": [
+      "IG-05",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_RED_TO_GREEN",
+    "file": "SETUP_RED_TO_GREEN.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "OPEN",
+      "red-to-green"
+    ],
+    "sources": [
+      "IG-07"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_STAIRCASE_TREND",
+    "file": "SETUP_STAIRCASE_TREND.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "staircase"
+    ],
+    "sources": [
+      "IG-16",
+      "IG-08",
+      "IG-05"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_TRUE_BREAKOUT_RETEST",
+    "file": "SETUP_TRUE_BREAKOUT_RETEST.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "breakout"
+    ],
+    "sources": [
+      "IG-08",
+      "IG-18",
+      "IG-10"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_FALSE_BREAKOUT_CLUES",
+    "file": "SETUP_FALSE_BREAKOUT_CLUES.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "false-break"
+    ],
+    "sources": [
+      "IG-08"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_VOLUME_SPIKE_AT_RESISTANCE",
+    "file": "SETUP_VOLUME_SPIKE_AT_RESISTANCE.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "spike-break"
+    ],
+    "sources": [
+      "IG-10",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BREAKOUT_ATTEMPTS",
+    "file": "SETUP_BREAKOUT_ATTEMPTS.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "attempts"
+    ],
+    "sources": [
+      "IG-10"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_AGGRESSIVE_ACCUMULATION",
+    "file": "SETUP_AGGRESSIVE_ACCUMULATION.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "accumulation"
+    ],
+    "sources": [
+      "IG-10",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PASSIVE_ACCUMULATION",
+    "file": "SETUP_PASSIVE_ACCUMULATION.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "accumulation"
+    ],
+    "sources": [
+      "IG-10",
+      "IG-17"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_SUPPORT_PLAY_S1",
+    "file": "SETUP_SUPPORT_PLAY_S1.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "support"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_ABSORPTION_S4",
+    "file": "SETUP_ABSORPTION_S4.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "absorption"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_RANGE_BREAKOUT_S6",
+    "file": "SETUP_RANGE_BREAKOUT_S6.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "range-break"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PROVEN_RANGE_S7",
+    "file": "SETUP_PROVEN_RANGE_S7.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MIDDAY",
+      "range"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_DOUBLE_BOTTOM_S9",
+    "file": "SETUP_DOUBLE_BOTTOM_S9.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "double-bottom"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BREAKDOWN_AT_SUPPORT_S12",
+    "file": "SETUP_BREAKDOWN_AT_SUPPORT_S12.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PULLBACK",
+      "MORNING",
+      "failed-break"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_PM_HIGH_BREAK_S16",
+    "file": "SETUP_PM_HIGH_BREAK_S16.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "PMH",
+      "OPEN",
+      "pm-high"
+    ],
+    "sources": [
+      "IG-06",
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_LEVEL_BREAK_S3",
+    "file": "SETUP_LEVEL_BREAK_S3.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "level"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_BREAK_AND_HOLD_S5",
+    "file": "SETUP_BREAK_AND_HOLD_S5.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "break-hold"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_LEVEL_FLIP_S11",
+    "file": "SETUP_LEVEL_FLIP_S11.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "flip"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_IPO_SUPPORT_S14",
+    "file": "SETUP_IPO_SUPPORT_S14.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "OPEN",
+      "ipo"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_HOT_IPO_MOMENTUM",
+    "file": "SETUP_HOT_IPO_MOMENTUM.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "OPEN",
+      "ipo"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_MARKET_PLAYS_S15",
+    "file": "SETUP_MARKET_PLAYS_S15.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "market"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_DAILY_SR_S23",
+    "file": "SETUP_DAILY_SR_S23.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "CONTINUATION",
+      "MORNING",
+      "daily-level"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "SETUP_DAY_SNIPER",
+    "file": "SETUP_DAY_SNIPER.md",
+    "kind": "setup",
+    "scope": "long-lane-a",
+    "tags": [
+      "OPENRANGE",
+      "OPEN",
+      "day-sniper"
+    ],
+    "sources": [
+      "IG-04"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_HELD_BID",
+    "file": "TAPE_HELD_BID.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "held-bid"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.718",
+      "BLUEPRINT_HANDBOOK p.747",
+      "IG-11",
+      "IG-12"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_ASK_EATEN",
+    "file": "TAPE_ASK_EATEN.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "ask-eaten"
+    ],
+    "sources": [
+      "IG-11",
+      "IG-01"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_PRINTS_ABOVE_ASK",
+    "file": "TAPE_PRINTS_ABOVE_ASK.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "prints"
+    ],
+    "sources": [
+      "IG-11",
+      "BLUEPRINT_HANDBOOK p.712"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_SIZE_FILTER",
+    "file": "TAPE_SIZE_FILTER.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "print-size"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.737"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_HUGE_PRINT",
+    "file": "TAPE_HUGE_PRINT.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "huge-print"
+    ],
+    "sources": [
+      "IG-11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_BUYING_DRIES_UP",
+    "file": "TAPE_BUYING_DRIES_UP.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "buying-dries-up"
+    ],
+    "sources": [
+      "IG-11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_SELLER_STEPS_DOWN",
+    "file": "TAPE_SELLER_STEPS_DOWN.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "seller-step-down"
+    ],
+    "sources": [
+      "IG-11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_RINSE_EFFECT",
+    "file": "TAPE_RINSE_EFFECT.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "rinse"
+    ],
+    "sources": [
+      "IG-11"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_L2_GOOD_BOOK",
+    "file": "TAPE_L2_GOOD_BOOK.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2"
+    ],
+    "sources": [
+      "IG-12",
+      "BLUEPRINT_HANDBOOK p.710"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "TAPE_L2_NO_TRADE_BOOKS",
+    "file": "TAPE_L2_NO_TRADE_BOOKS.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2"
+    ],
+    "sources": [
+      "IG-12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_L2_ASK_GAP_DENSE_BID",
+    "file": "TAPE_L2_ASK_GAP_DENSE_BID.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2"
+    ],
+    "sources": [
+      "IG-12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_L2_DEFENDED_COMBOS",
+    "file": "TAPE_L2_DEFENDED_COMBOS.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "level2"
+    ],
+    "sources": [
+      "IG-12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_REAL_VS_FAKE_ORDER",
+    "file": "TAPE_REAL_VS_FAKE_ORDER.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "nitf"
+    ],
+    "sources": [
+      "IG-12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_HIDDEN_BUYER",
+    "file": "TAPE_HIDDEN_BUYER.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "hidden-orders"
+    ],
+    "sources": [
+      "IG-12"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_VOLUME_NEVER_TRIGGERS",
+    "file": "TAPE_VOLUME_NEVER_TRIGGERS.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "volume"
+    ],
+    "sources": [
+      "IG-10"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "TAPE_VOLUME_DELTA_COLOR",
+    "file": "TAPE_VOLUME_DELTA_COLOR.md",
+    "kind": "tape",
+    "scope": "long-lane-a",
+    "tags": [
+      "TAPE",
+      "ANY",
+      "volume-delta"
+    ],
+    "sources": [
+      "IG-10"
+    ],
+    "status": "sheet-stated"
+  },
+  {
+    "id": "DATA_TIME_BASIS",
+    "file": "DATA_TIME_BASIS.md",
+    "kind": "data",
+    "scope": "long-lane-a",
+    "tags": [
+      "DATA",
+      "ANY",
+      "time-basis"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.710",
+      "IG-09"
+    ],
+    "status": "book-stated"
+  },
+  {
+    "id": "DATA_BROKER_REGULATORY_CHECK",
+    "file": "DATA_BROKER_REGULATORY_CHECK.md",
+    "kind": "data",
+    "scope": "long-lane-a",
+    "tags": [
+      "DATA",
+      "PREOPEN",
+      "broker"
+    ],
+    "sources": [
+      "BLUEPRINT_HANDBOOK p.717",
+      "BLUEPRINT_HANDBOOK p.723",
+      "BLUEPRINT_HANDBOOK p.750"
+    ],
+    "status": "book-stated"
+  }
+]
